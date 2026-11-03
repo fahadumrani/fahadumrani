@@ -21,3 +21,4 @@ That deep link takes users directly to the developer introduction section.
 - Arsalan Bangulzai
 - Sultan Zerhi
 - Massab Shahwani
+- Ijaz Kakar
